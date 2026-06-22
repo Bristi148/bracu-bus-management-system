@@ -14,8 +14,8 @@ $tran_id   = $_POST['tran_id']   ?? $_GET['tran_id']   ?? '';
 $amount    = $_POST['amount']    ?? $_GET['amount']    ?? 0;
 $card_type = $_POST['card_type'] ?? $_GET['card_type'] ?? '';
 
-$store_id   = 'bracu69f7de7f9476e';
-$store_pass = 'bracu69f7de7f9476e@ssl';
+$store_id   = '';
+$store_pass = '';
 
 
 $booking_id = 0;
